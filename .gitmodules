@@ -1,0 +1,32 @@
+[submodule "iot-infra"]
+	path = iot-infra
+	url = https://github.com/rfaita/iot-infra.git
+	branch = master
+[submodule "iot-edge"]
+	path = iot-edge
+	url = https://github.com/rfaita/iot-edge.git
+	branch = master
+[submodule "iot-tsp"]
+	path = iot-tsp
+	url = https://github.com/rfaita/iot-tsp.git
+	branch = master
+[submodule "iot-tsa"]
+	path = iot-tsa
+	url = https://github.com/rfaita/iot-tsa.git
+	branch = master
+[submodule "iot-reactive"]
+	path = iot-reactive
+	url = https://github.com/rfaita/iot-reactive.git
+	branch = master
+[submodule "iot-gtw"]
+	path = iot-gtw
+	url = https://github.com/rfaita/iot-gtw.git
+	branch = master
+[submodule "iot-gui"]
+	path = iot-gui
+	url = https://github.com/rfaita/iot-gui.git
+	branch = master
+[submodule "iot-asset"]
+	path = iot-asset
+	url = https://github.com/rfaita/iot-asset.git
+	branch = master
